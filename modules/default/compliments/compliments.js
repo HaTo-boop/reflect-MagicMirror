@@ -7,13 +7,8 @@
 Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
-		compliments: {
-			anytime: ["Hey there sexy!"],
-			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
-			afternoon: ["Hello, beauty!", "You look sexy!", "Looking good today!"],
-			evening: ["Wow, you look hot!", "You look nice!", "Hi, sexy!"],
-			"....-01-01": ["Happy new year!"]
-		},
+		compliments:
+			["my baby feels my peace"],
 		updateInterval: 30000,
 		remoteFile: null,
 		fadeSpeed: 4000,
@@ -133,7 +128,7 @@ Module.register("compliments", {
 	 */
 	getRandomCompliment: function () {
 		// get the current time of day compliments list
-		const compliments = this.complimentArray();
+		const compliments = this.config.compliments;
 		// variable for index to next message to display
 		let index;
 		// are we randomizing
