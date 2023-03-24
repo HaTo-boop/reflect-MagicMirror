@@ -1,0 +1,117 @@
+﻿{
+    "general": [
+        "did you have any lows today? if so, what were they?",
+        "what were your highs?",
+        "what goals did you set today and what were you able to work on?",
+        "what did you learn today?",
+        "what did you accomplish today?",
+        "what challenges did you overcome today?",
+        "what are you proud of yourself for today?",
+        "what aspects about yourself were you grateful for today?",
+        "did you show kindness to yourself today? why or why not?",
+        "what do you look forward to tomorrow?",
+        "were there anything that didn't meet your expectations today?",
+        "what personal strengths did you use today?",
+        "what sparked joy today?"
+    ],
+
+    "balance": [
+        "are you happy doing what you're doing right now?",
+        "are you prioritizing yourself?",
+        "did you feel overwhelmed today?",
+        "did you allocated your time as you'd hope today?",
+        "what are you trying to balance in your life right now?",
+        "is there anything you feel is imbalanced right now?",
+        "what can you do to remain balance in your life right now?"
+    ],
+    
+    "change": [
+        "have there been any new changes in your life? ",
+        "how you dealing with these changes?",
+        "are you in an environment where change is not judged?",
+        "do you fear these changes? ",
+        "do you think change is important?",
+        "are there anything you'd like to change about yourself?",
+        "how does this new change align with your values?"
+    ],
+
+    "confidence": [
+        "what aspects of your body are you confident in?",
+        "what aspects of your body do you want to work on? ",
+        "what does having confidence look like for you?",
+        "what did you feel confident about today?",
+        "what makes you feel good?",
+        "was there something you weren't confident about today?",
+        "how can you improve your self-confidence tomorrow?"
+    ],
+
+    "gratitude": [
+        "what were you grateful for today?",
+        "what do you want to practice more gratefulness for?",
+        "what are you taking for granted?",
+        "what aspects of your body do you appreciate?",
+        "how will you prevent taking certain things for granted?",
+        "what can you do to start expressing gratitude?",
+        "what aspects of your body do you not appreciate?"
+    ],
+
+    "growth": [
+        "what personal areas do you want to work on?",
+        "where are you currently experiencing growth in?",
+        "what areas do you want to grow in?",
+        "what life lessons do you want to implement?",
+        "where do you feel like you've grown?",
+        "what is your current attitude towards growth?",
+        "what changes will make you happy?"
+    ],
+
+    "health & wellness": [
+        "did you rest today? ",
+        "did you have a balanced meal today?",
+        "what is your energy level looking like? why is that?",
+        "what can you do tomorrow to increase your energy levels?",
+        "are you prioritizing yourself?",
+        "did you get good sleep tonight?",
+        "how do you feel about your current self-care regimen?"
+    ],
+
+    "strength": [
+        "how do you perceive your personal strength?",
+        "what are your strengths?",
+        "what do you hope to become your strength?",
+        "what qualities do you value about the people around you?",
+        "what does your loved ones say are your qualities? ",
+        "what aspects do you want to see improvement in?  ",
+        "did you have any opportunities to excercise your personal strength?"
+    ],
+
+    "truth": [
+        "how often do you speak up?",
+        "is there anything that prevents you from presenting yourself?",
+        "how would you describe your self-awareness?",
+        "what do you like about yourself?",
+        "are you constantly in a space where you're comfortable sharing your thoughts?",
+        "are you conscious about anything?",
+        "what helps you be unapologetically you?"
+    ],
+
+    "patience": [
+        "were you patient with yourself today?",
+        "were there any moments where you felt rushed?",
+        "where are you struggling to demonstrate patience?",
+        "do you have a lot of patience?",
+        "do you have a lot of patience for yourself?",
+        "what are you most critical about yourself?",
+        "how can you be less self-critical?"
+    ],
+
+    "presence": [
+        "how were you present today?",
+        "were there any moment that you felt you weren't present for?",
+        "what helps you stay present?",
+        "what do you do when you feel that you aren't present?",
+        "do you allow yourself to take a breather when you don't feel present?",
+        "do you worry about your presence in different spaces?",
+        "what matters to you most right now?"
+    ]
+}

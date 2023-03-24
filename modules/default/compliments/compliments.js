@@ -3,6 +3,10 @@
  *
  * By Michael Teeuw https://michaelteeuw.nl
  * MIT Licensed.
+ * 
+ * Modified for Words of Affirmations 
+ * - Affirmations are read from ../../data/reflect-affirmations => defined in start sequence
+ * - General Affirmations are hard coded for now
  */
 Module.register("compliments", {
 	// Module config defaults.
@@ -10,7 +14,7 @@ Module.register("compliments", {
 		compliments:
 			["my baby feels my peace"],
 		updateInterval: 30000,
-		remoteFile: null,
+		remoteFile: "../../data/reflect-affirmations.js",
 		fadeSpeed: 4000,
 		morningStartTime: 3,
 		morningEndTime: 12,
@@ -35,7 +39,8 @@ Module.register("compliments", {
 
 		if (this.config.remoteFile !== null) {
 			this.loadComplimentFile().then((response) => {
-				this.config.compliments = JSON.parse(response);
+				const reflectAff = JSON.parse(response);
+				this.config.compliments = reflectAff.general;
 				this.updateDom();
 			});
 		}
